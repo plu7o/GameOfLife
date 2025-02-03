@@ -1,5 +1,3 @@
-# Re-create the README.md file since the execution state was reset
-
 # Game of Life Simulator (Rust)
 
 A fast and customizable **Game of Life** simulation written in Rust, with adjustable parameters for population dynamics, reproduction rules, mutation, aging, and more.
